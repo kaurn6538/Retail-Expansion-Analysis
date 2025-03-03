@@ -12,6 +12,7 @@ As a Data Scientist, Assuming that I was tasked with assessing the business envi
 ## Key Insights
 
 1. Competitor Analysis - Box Plot
+   
 ![Screenshot 2025-03-03 122124](https://github.com/user-attachments/assets/bb13da0a-4866-4a18-ad8f-1dc0c0ac23c1)
 
 
