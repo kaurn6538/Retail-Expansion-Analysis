@@ -43,11 +43,11 @@ As a Data Scientist, Assuming that I was tasked with assessing the business envi
 
 *    Three key reasons support Victoria as the ideal expansion state:
 
-*    Strong and stable business environment with predictable net profit margins.
+I.    Strong and stable business environment with predictable net profit margins.
 
-*    Growing per capita sales, indicating increasing consumer demand.
+II.    Growing per capita sales, indicating increasing consumer demand.
 
-A favorable industry trend that is not solely reliant on population growth.
+III.    A favorable industry trend that is not solely reliant on population growth.
 
 4. Forecasting Expansion Impact
 
